@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0.9",
+  "tag": "v1.0.9",
+  "asset_name": "HB.Query.Setup.exe",
+  "download_url": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/download/v1.0.9/HB.Query.Setup.exe",
+  "sha256": "4313caf013d09fd093b84c0f5778d1297eb649dfccc68f4abcb03d7ec05e59b4",
+  "size": 144265088,
+  "released_at": "2026-03-16T20:11:33Z",
+  "release_notes": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/tag/v1.0.9"
+}
