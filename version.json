@@ -1,10 +1,14 @@
 {
-  "latest_version": "1.1.0",
-  "tag": "v1.1.0",
-  "asset_name": "HB.Query.Setup.exe",
-  "download_url": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/download/v1.1.0/HB.Query.Setup.exe",
-  "sha256": "fd860af034eb7492c0dc0f1de5cce749aefd35313ca96143e2e08fee6595ad1c",
-  "size": 140303268,
-  "released_at": "2026-03-22T12:59:05Z",
-  "release_notes": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/tag/v1.1.0"
+  "latest_version": "1.1.1",
+  "tag": "v1.1.1",
+  "asset_name": "HB.Query.1.1.1.exe",
+  "download_url": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/download/v1.1.1/HB.Query.1.1.1.exe",
+  "sha256": "2772d061692c0d39c758dd972056b54d66f9786c725f4e143afc911438812c88",
+  "size": 144668928,
+  "zip_asset_name": "HBQuery_v1.1.1.zip",
+  "zip_download_url": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/download/v1.1.1/HBQuery_v1.1.1.zip",
+  "zip_sha256": "e74c25242bd4514f2ff206a89d6e09b76d23cdb14bc9497a6fcb695beb134a4d",
+  "zip_size": 200190119,
+  "released_at": "2026-03-23T18:45:00Z",
+  "release_notes": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/tag/v1.1.1"
 }
