@@ -1,15 +1,15 @@
 {
-  "latest_version": "1.1.4",
+  "latest_version": "1.1.5",
   "force": true,
-  "tag": "v1.1.4",
-  "asset_name": "HB.Query.1.1.4.exe",
-  "download_url": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/download/v1.1.4/HB.Query.1.1.4.exe",
-  "sha256": "701c66bb83171debe58339604542b88b6ac4fceb7d8ea695fb2e3478c13568dd",
-  "size": 153023456,
-  "zip_asset_name": "HBQuery_v1.1.4.zip",
-  "zip_download_url": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/download/v1.1.4/HBQuery_v1.1.4.zip",
-  "zip_sha256": "5d31de95341ed6f99ad8b9475e2a0d7038413adae14c2a147b38c4bc16e0bb52",
-  "zip_size": 209736723,
-  "released_at": "2026-04-20T09:56:59Z",
-  "release_notes": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/tag/v1.1.4"
+  "tag": "v1.1.5",
+  "asset_name": "FusionQuery.Studio.1.1.5.exe",
+  "download_url": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/download/v1.1.5/FusionQuery.Studio.1.1.5.exe",
+  "sha256": "fd4da776ad80c0dec25772167a5abee22ed11fcbed101861b0dca560181e41c1",
+  "size": 145980241,
+  "zip_asset_name": "FusionQueryStudio_v1.1.5.zip",
+  "zip_download_url": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/download/v1.1.5/FusionQueryStudio_v1.1.5.zip",
+  "zip_sha256": "a1cbe11ce2957c11458b66574410be42e006886720240d53b9ca62265ce474f5",
+  "zip_size": 203250033,
+  "released_at": "2026-09-24T16:57:38Z",
+  "release_notes": "https://github.com/hbtechlabs-glitch/hbquery-releases/releases/tag/v1.1.5"
 }
